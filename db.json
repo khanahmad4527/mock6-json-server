@@ -1,18 +1,66 @@
 {
-  "dogs": [
+  "cars": [
     {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2001,
+      "kms": 10000,
+      "description": "rtbddf",
+      "price": 458763,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Bangalore",
-      "gender": "Female"
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2001,
+      "kms": 10000,
+      "description": "rtbddf",
+      "price": 458763,
+      "id": 2
+    },
+    {
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2001,
+      "kms": 10000,
+      "description": "rtbddf",
+      "price": 458763,
+      "id": 3
+    },
+    {
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2001,
+      "kms": 10000,
+      "description": "rtbddf",
+      "price": 458763,
+      "id": 4
+    },
+    {
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2001,
+      "kms": 10000,
+      "description": "rtbddf",
+      "price": 458763,
+      "id": 5
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2001,
+      "kms": 10000,
+      "description": "rtbddf",
+      "price": 458763,
+      "id": 2
     }
   ]
 }
