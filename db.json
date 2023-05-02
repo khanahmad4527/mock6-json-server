@@ -62,5 +62,43 @@
       "price": 458763,
       "id": 2
     }
+  ],
+  "products": [
+    {
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "productName": "langoor",
+      "productDescription": "fvdsfbdata:image/jp",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 75465,
+      "id": 1
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "productName": "Levis Shirt",
+      "productDescription": "gvnkx xvb",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 4000,
+      "id": 2
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "productName": "Kurta",
+      "productDescription": "vs tehbd",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 7800,
+      "id": 3
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "productName": "Kurti",
+      "productDescription": "fvdsfbdata:image/jp",
+      "gender": "Female",
+      "category": "Kurti",
+      "price": 745,
+      "id": 4
+    }
   ]
 }
